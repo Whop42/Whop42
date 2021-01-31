@@ -1,7 +1,7 @@
 # I'm Whop42
 
 ```Java
-if(you.wantTo(contactMe) {
+if(you.wantTo(contactMe)) {
        System.out.println("Email: Whop42@icloud.com");
        System.out.println("Minecraft IGN: Altf42");
 } else {
