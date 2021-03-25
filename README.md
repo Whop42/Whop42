@@ -16,7 +16,7 @@ Discord: Altf42#6022
 - Python
 - HTML/CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whop42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whop42)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools:
 - [FabricMC](https://github.com/FabricMC/Fabric)
