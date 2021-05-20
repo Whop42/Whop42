@@ -18,8 +18,6 @@ Discord: Altf42#6022
 
 [![Whop42's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whop42)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Whop42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whop42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tools:
 - [FabricMC](https://github.com/FabricMC/Fabric)
 - [Unreal 4](https://unrealengine.com)
