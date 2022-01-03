@@ -2,6 +2,8 @@
 
 All of my time is sucked up by school
 
+help
+
 ## Contact:
 
 Email: `Whop42@icloud.com`
