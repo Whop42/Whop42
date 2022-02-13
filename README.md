@@ -17,12 +17,14 @@ Discord: `Altf42#6022`
   * [Swing](https://docs.oracle.com/javase/tutorial/uiswing/start/index.html): Desktop GUI library
   * [JavaFX](https://openjfx.io/): Another desktop GUI library
 * [Python](https://python.org): Simple but powerful programming language that I use for scripting and smaller applications
+  * [Django](https://djangoproject.org): A "batteries included" backend webdev framework. *(Learning in progress)*
 * [HTML/CSS/JS](https://developer.mozilla.org/en-US/docs/Web/HTML): The basic frontend of most web applications
   * [Bootstrap](https://getbootstrap.com): A framework for building fast and responsive sites with CSS
   * [React](https://reactjs.org): A popular front-end JS library *(Learning in progress)*
 * [NodeJS](https://nodejs.org): A server-side JS runtime *(Learning in progress)*
   * [ExpressJS](https://expressjs.com): A node.js web framework *(Learning in progress)*
 * [MongoDB](https://mongodb.com): Non-relational database *(Learning in progress)*
+* [PostgreSQL](https://postgresql.org): Relational database *(*Learning in progress)*
 
 ## What I'm Up To:
 * Learning fullstack webdev with [FreeCodeCamp](https://freecodecamp.org)
