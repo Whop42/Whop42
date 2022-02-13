@@ -24,7 +24,7 @@ Discord: `Altf42#6022`
 * [NodeJS](https://nodejs.org): A server-side JS runtime *(Learning in progress)*
   * [ExpressJS](https://expressjs.com): A node.js web framework *(Learning in progress)*
 * [MongoDB](https://mongodb.com): Non-relational database *(Learning in progress)*
-* [PostgreSQL](https://postgresql.org): Relational database *(*Learning in progress)*
+* [PostgreSQL](https://postgresql.org): Relational database *(Learning in progress)*
 
 ## What I'm Up To:
 * Learning fullstack webdev with [FreeCodeCamp](https://freecodecamp.org)
