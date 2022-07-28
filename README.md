@@ -1,8 +1,6 @@
 # I'm Whop42, a Computer Science student
 
-All of my time is sucked up by school
-
-help
+I spend most of my time on school things, but I'm always happy to lend a hand to a project!
 
 ## Contact:
 
