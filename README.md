@@ -6,21 +6,19 @@ I spend most of my time on school things, but I'm always happy to lend a hand to
 
 Email: `Whop42@icloud.com`
 
-Discord: `Altf42#6022`
-
-Lemmy: `@whop42@lemmy.blahaj.zone`
+Discord: `whop42`
 
 ## Skills:
-* python, especially web scraping and scripting for automation
+* python/go, especially web scraping and scripting for automation
 * HTML/CSS/JS (& TS) including React/Preact
 * experienced with Java and Minecraft modding
 * fluent english, broken spanish
 
 ## What I'm Up To:
-* Leading the CTF team QuantumOffensive (inactive during the school year)
-* Maintaining multiple Linux setups (along with the LinuxConvert repo!)
+* improving/maintaining LinuxConvert
+* tinkering with multiple Linux setups
 * *school*
-* Mountain biking and snowboarding
+* mountain biking and snowboarding
 
 [![Whop42's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whop42)](https://github.com/anuraghazra/github-readme-stats)
 
