@@ -1,25 +1,29 @@
-# I'm Whop42
 
-I spend most of my time on school things, but I'm always happy to lend a hand to a project!
+most of my time is ~~wasted~~ spent on schoolwork, but i'm always ~~desperate~~ willing to ~~break up the endless monotony~~ lend a hand on anything!
 
-## Contact:
+---
 
-Email: `Whop42@icloud.com`
+## contact me here:
+> 
+> email: my username at `icloud` dot `com`
+> 
+> discord: my username (all lowercase)
+>
+> mastodon: my username at `tech` dot `lgbt`
 
-Discord: `whop42`
-
-## Skills:
+## skills:
 * python/go, especially web scraping and scripting for automation
-* HTML/CSS/JS (& TS) including React/Preact
-* experienced with Java and Minecraft modding
+* linux
+* html/css/js, ts + deno, react/preact, tailwind
+* java (+ minecraft modding/plugins)
 * fluent english, broken spanish
 
-## What I'm Up To:
-* improving/maintaining LinuxConvert
-* tinkering with multiple Linux setups
+## what i'm doing rn
+* rewriting linuxconvert for the 700th time
+* tinkering with multiple linux setups
 * *school*
-* mountain biking and snowboarding
+* mountain biking, snowboarding, and climbing
 
-[![Whop42's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whop42)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whop42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
